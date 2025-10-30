@@ -54,7 +54,7 @@ npm run seed:db [email-***@****.com] [password-******] // This is just an exampl
 
 ## Install
 
-`npm install` in the project root will install dependencies in both `client` and `server`. [See package.json](package.json)
+ install` in the project root will install dependencies in both `client` and `server`. [See package.json](package.json)
 
 Some basic Git commands are:
 
@@ -76,7 +76,7 @@ Create `.env` file for both client and server. See examples:
 ## Vercel Deployment
 
 Both frontend and backend are deployed on Vercel from the same repository. When deploying on Vercel, make sure to specifiy the root directory as `client` and `server` when importing the repository. See [client vercel.json](client/vercel.json) and [server vercel.json](server/vercel.json).
-
+`npm
 ## Start development
 
 ```
